@@ -1,5 +1,5 @@
 # Introduction
-Simple Reverse shell server written in C#, non password protected.
+Simple Reverse shell client written in C#, non password protected.
 
 # Social Media
 - [Youtube](https://youtube.com/Melardev)
